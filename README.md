@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 Nice to meet you, Felipe Prestes!</h1>
-<h3 align="center">Back-end developer, water and coffee lover, passionate musician and currently in love with JavaScript and its frameworks like ReactJS and Angular</h3>
+<h3 align="center">Back-end developer, water and coffee lover, passionate musician and currently in love with JavaScript and its frameworks like ReactJS</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=felipeprestess" alt="felipeprestess" /></p>
 
@@ -7,7 +7,7 @@
  Graduated in Software Engineering from the <a href="https://www.univille.edu.br/">@univille</a> and postgraduate in Big Data.
 </p>
 <p align="center">
-  - 🌱 I’m currently studying JavaScript and its frameworks like Angular and ReactJS.
+  - 🌱 I’m currently studying JavaScript and its frameworks like ReactJS.
 </p>
 <p align="center">
   - ⚡ Important notes: I have a band and I like to play video games too 🎮
