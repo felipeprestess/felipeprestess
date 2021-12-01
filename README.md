@@ -10,6 +10,9 @@
   - 🌱 I’m currently studying JavaScript and its frameworks like ReactJS.
 </p>
 <p align="center">
+  - 💻 My currently stack of develop: C#, MySQL, ReactJS, Material UI.
+</p>
+<p align="center">
   - ⚡ Important notes: I have a band and I like to play video games too 🎮
 </p>
   
