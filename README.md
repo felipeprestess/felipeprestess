@@ -7,10 +7,10 @@
  Graduated in Software Engineering from the <a href="https://www.univille.edu.br/">@univille</a> and postgraduate in Big Data.
 </p>
 <p align="center">
-  - 🌱 I’m currently studying JavaScript and its frameworks like ReactJS.
+  - 🌱 I’m currently studying at Post-Graduate in FulltStack Developement of Modern Systems for Native Cloud.
 </p>
 <p align="center">
-  - 💻 My currently stack of develop: C#, Net Core & SQL Server.
+  - 💻 My currently stack of develop: C#, Net Core, Microservices & SQL Server.
 </p>
 <p align="center">
   - ⚡ Important notes: I have a band and I like to play video games too 🎮
