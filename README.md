@@ -4,10 +4,10 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=felipeprestess" alt="felipeprestess" /></p>
 
 <p align="center">
- Graduated in Software Engineering from the <a href="https://www.univille.edu.br/">@univille</a> and postgraduate in Big Data.
+ Graduated in Software Engineering from the <a href="https://www.univille.edu.br/">@univille</a> and postgraduate in Big Data and FullStack Development of Modern System for Native Cloud.
 </p>
 <p align="center">
-  - 🌱 I’m currently studying at Post-Graduate in FulltStack Developement of Modern Systems for Native Cloud.
+  - 🌱 I’m currently work a lot.
 </p>
 <p align="center">
   - 💻 My currently stack of develop: C#, Net Core, Microservices & SQL Server.
